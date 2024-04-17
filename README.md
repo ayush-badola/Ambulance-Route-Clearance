@@ -1,7 +1,7 @@
 # Ambulance Route Clearance
 ## Hey! 👋
 ### Welcome to the Ambulance-route-clearance repository! 🙏
-This is a project made for the initial puropose of a Hackathon under the team name "AirDevs".
+This is a project made for the initial purpose of a Hackathon under the team name "AirDevs".
 * Tech-stacks included ✍: 
 	* HTML
 	* CSS
