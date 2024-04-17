@@ -1,0 +1,24 @@
+body{
+    background-image: url("/images/hospitalback.jpg");
+    background-size: cover;
+}
+
+.langlat{
+    margin-top: 50vh;
+    text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.use{
+    background-color: rgba(0, 0, 0, 0.872);
+    color: white;
+    padding: 2vh;
+    margin-right: 10vh;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: none;
+}
+

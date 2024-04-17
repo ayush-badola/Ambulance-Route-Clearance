@@ -1,0 +1,73 @@
+/* styles.css */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%; /* Half of the page width */
+  height: 85%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 15%;
+  left: 0%; /* Half of the page width */
+  background-color: rgba(0, 0, 0, 0.5); /* Example semi-transparent background */
+  color: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 45px;
+  margin-bottom: 17px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+}
+
+.styled-button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  border-radius: 20px;
+  background-color: #e51212;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.styled-button:hover {
+  background-color: #b30000;
+  cursor: pointer; /* Set cursor to pointer when hovering */
+}

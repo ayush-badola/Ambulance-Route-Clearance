@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bod{
+    margin-top: 20vh;
+    text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.saf{
+    margin-top: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.nam{
+    margin-top: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
