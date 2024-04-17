@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bod{
+    margin-top: 20vh;
+    text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 0;
+  color: white;
+}
+
+.saf{
+    margin-top: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.nam{
+    margin-top: 20vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.vid{
+    position: fixed;
+    z-index: -1;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    width: 100%;
+    left: 0;
+}

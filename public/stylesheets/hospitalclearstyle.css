@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bod{
+    margin-top: 15vh;
+    text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.saf{
+    margin-top: 20vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.bod2{
+    margin-top: 20vh;
+    text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
